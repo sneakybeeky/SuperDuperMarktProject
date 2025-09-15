@@ -1,12 +1,7 @@
-import DataProvider.CSVDataProviderService;
-import DataProvider.DataProviderService;
-import DataProvider.SQLDataProviderService;
 import Model.Product;
-
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Objects;
-import java.util.Scanner;
 
 public class SupplyConsolePrinter {
 

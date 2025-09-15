@@ -4,5 +4,5 @@ public enum ProductTypes {
     WINE,
     CHEESE,
     TRIVIAL,
-    BREAD;
+    BREAD
 }
